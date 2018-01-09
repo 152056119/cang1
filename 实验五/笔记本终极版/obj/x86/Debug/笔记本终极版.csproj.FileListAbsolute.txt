@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\bin\Debug\笔记本终极版.exe
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\bin\Debug\笔记本终极版.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.exe
+c:\users\administrator\documents\visual studio 2010\Projects\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.pdb
+D:\Desktop\笔记本\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.exe
+D:\Desktop\笔记本\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.pdb
+C:\Users\admin\Desktop\笔记本\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.exe
+C:\Users\admin\Desktop\笔记本\笔记本终极版\笔记本终极版\obj\x86\Debug\笔记本终极版.pdb

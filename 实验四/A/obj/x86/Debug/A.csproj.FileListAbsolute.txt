@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\A\A\bin\Debug\A.exe
+C:\Users\lenovo\Desktop\A\A\bin\Debug\A.pdb
+C:\Users\lenovo\Desktop\A\A\obj\x86\Debug\A.Form1.resources
+C:\Users\lenovo\Desktop\A\A\obj\x86\Debug\A.Properties.Resources.resources
+C:\Users\lenovo\Desktop\A\A\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\A\A\obj\x86\Debug\A.exe
+C:\Users\lenovo\Desktop\A\A\obj\x86\Debug\A.pdb
+C:\Users\lenovo\Desktop\A\A\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+G:\A\A\obj\x86\Debug\A.exe
+G:\A\A\obj\x86\Debug\A.pdb
+G:\A\A\bin\Debug\A.exe
+G:\A\A\bin\Debug\A.pdb
+G:\A\A\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\A\A\obj\x86\Debug\A.Form1.resources
+G:\A\A\obj\x86\Debug\A.Properties.Resources.resources
+G:\A\A\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\A\A\obj\x86\Debug\GenerateResource.write.1.tlog
