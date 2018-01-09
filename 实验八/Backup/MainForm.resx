@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="mainMenu1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>30, 1</value>
+  </metadata>
+  <metadata name="sqlSelectCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="sqlSelectCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="sqlConnection1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>281, 1</value>
+  </metadata>
+  <metadata name="sqlInsertCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="sqlInsertCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="sqlInsertCommand1.CommandText" xml:space="preserve">
+    <value>INSERT INTO [入住单] ([入住单号], [预定单号], [会员编号], [客房类型], [抵店时间], [离店时间], [单据状态], [入住人数], [客房编号], [客房价格], [入住价格], [折扣], [折扣原因], [是否加床], [加床价格], [预收款], [预定人], [预定公司], [联系电话], [备注], [操作员], [业务员], [早餐], [叫醒], [保密], [vip], [电话等级], [特要说明], [应收帐款], [是否结帐], [结帐金额], [结帐日期], [付款方式]) VALUES (@入住单号, @预定单号, @会员编号, @客房类型, @抵店时间, @离店时间, @单据状态, @入住人数, @客房编号, @客房价格, @入住价格, @折扣, @折扣原因, @是否加床, @加床价格, @预收款, @预定人, @预定公司, @联系电话, @备注, @操作员, @业务员, @早餐, @叫醒, @保密, @vip, @电话等级, @特要说明, @应收帐款, @是否结帐, @结帐金额, @结帐日期, @付款方式);
+SELECT 入住单号, 预定单号, 会员编号, 客房类型, 抵店时间, 离店时间, 单据状态, 入住人数, 客房编号, 客房价格, 入住价格, 折扣, 折扣原因, 是否加床, 加床价格, 预收款, 预定人, 预定公司, 联系电话, 备注, 操作员, 业务员, 早餐, 叫醒, 保密, vip, 电话等级, 特要说明, 应收帐款, 是否结帐, 结帐金额, 结帐日期, 付款方式 FROM 入住单 WHERE (入住单号 = @入住单号)</value>
+  </data>
+  <metadata name="sqlUpdateCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="sqlUpdateCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="sqlUpdateCommand1.CommandText" xml:space="preserve">
+    <value>UPDATE [入住单] SET [入住单号] = @入住单号, [预定单号] = @预定单号, [会员编号] = @会员编号, [客房类型] = @客房类型, [抵店时间] = @抵店时间, [离店时间] = @离店时间, [单据状态] = @单据状态, [入住人数] = @入住人数, [客房编号] = @客房编号, [客房价格] = @客房价格, [入住价格] = @入住价格, [折扣] = @折扣, [折扣原因] = @折扣原因, [是否加床] = @是否加床, [加床价格] = @加床价格, [预收款] = @预收款, [预定人] = @预定人, [预定公司] = @预定公司, [联系电话] = @联系电话, [备注] = @备注, [操作员] = @操作员, [业务员] = @业务员, [早餐] = @早餐, [叫醒] = @叫醒, [保密] = @保密, [vip] = @vip, [电话等级] = @电话等级, [特要说明] = @特要说明, [应收帐款] = @应收帐款, [是否结帐] = @是否结帐, [结帐金额] = @结帐金额, [结帐日期] = @结帐日期, [付款方式] = @付款方式 WHERE (([入住单号] = @Original_入住单号) AND ((@IsNull_预定单号 = 1 AND [预定单号] IS NULL) OR ([预定单号] = @Original_预定单号)) AND ((@IsNull_会员编号 = 1 AND [会员编号] IS NULL) OR ([会员编号] = @Original_会员编号)) AND ((@IsNull_客房类型 = 1 AND [客房类型] IS NULL) OR ([客房类型] = @Original_客房类型)) AND ((@IsNull_抵店时间 = 1 AND [抵店时间] IS NULL) OR ([抵店时间] = @Original_抵店时间)) AND ((@IsNull_离店时间 = 1 AND [离店时间] IS NULL) OR ([离店时间] = @Original_离店时间)) AND ((@IsNull_单据状态 = 1 AND [单据状态] IS NULL) OR ([单据状态] = @Original_单据状态)) AND ((@IsNull_入住人数 = 1 AND [入住人数] IS NULL) OR ([入住人数] = @Original_入住人数)) AND ((@IsNull_客房编号 = 1 AND [客房编号] IS NULL) OR ([客房编号] = @Original_客房编号)) AND ((@IsNull_客房价格 = 1 AND [客房价格] IS NULL) OR ([客房价格] = @Original_客房价格)) AND ((@IsNull_入住价格 = 1 AND [入住价格] IS NULL) OR ([入住价格] = @Original_入住价格)) AND ((@IsNull_折扣 = 1 AND [折扣] IS NULL) OR ([折扣] = @Original_折扣)) AND ((@IsNull_折扣原因 = 1 AND [折扣原因] IS NULL) OR ([折扣原因] = @Original_折扣原因)) AND ((@IsNull_是否加床 = 1 AND [是否加床] IS NULL) OR ([是否加床] = @Original_是否加床)) AND ((@IsNull_加床价格 = 1 AND [加床价格] IS NULL) OR ([加床价格] = @Original_加床价格)) AND ((@IsNull_预收款 = 1 AND [预收款] IS NULL) OR ([预收款] = @Original_预收款)) AND ((@IsNull_预定人 = 1 AND [预定人] IS NULL) OR ([预定人] = @Original_预定人)) AND ((@IsNull_预定公司 = 1 AND [预定公司] IS NULL) OR ([预定公司] = @Original_预定公司)) AND ((@IsNull_联系电话 = 1 AND [联系电话] IS NULL) OR ([联系电话] = @Original_联系电话)) AND ((@IsNull_备注 = 1 AND [备注] IS NULL) OR ([备注] = @Original_备注)) AND ((@IsNull_操作员 = 1 AND [操作员] IS NULL) OR ([操作员] = @Original_操作员)) AND ((@IsNull_业务员 = 1 AND [业务员] IS NULL) OR ([业务员] = @Original_业务员)) AND ((@IsNull_早餐 = 1 AND [早餐] IS NULL) OR ([早餐] = @Original_早餐)) AND ((@IsNull_叫醒 = 1 AND [叫醒] IS NULL) OR ([叫醒] = @Original_叫醒)) AND ((@IsNull_保密 = 1 AND [保密] IS NULL) OR ([保密] = @Original_保密)) AND ((@IsNull_vip = 1 AND [vip] IS NULL) OR ([vip] = @Original_vip)) AND ((@IsNull_电话等级 = 1 AND [电话等级] IS NULL) OR ([电话等级] = @Original_电话等级)) AND ((@IsNull_特要说明 = 1 AND [特要说明] IS NULL) OR ([特要说明] = @Original_特要说明)) AND ((@IsNull_应收帐款 = 1 AND [应收帐款] IS NULL) OR ([应收帐款] = @Original_应收帐款)) AND ((@IsNull_是否结帐 = 1 AND [是否结帐] IS NULL) OR ([是否结帐] = @Original_是否结帐)) AND ((@IsNull_结帐金额 = 1 AND [结帐金额] IS NULL) OR ([结帐金额] = @Original_结帐金额)) AND ((@IsNull_结帐日期 = 1 AND [结帐日期] IS NULL) OR ([结帐日期] = @Original_结帐日期)) AND ((@IsNull_付款方式 = 1 AND [付款方式] IS NULL) OR ([付款方式] = @Original_付款方式)));
+SELECT 入住单号, 预定单号, 会员编号, 客房类型, 抵店时间, 离店时间, 单据状态, 入住人数, 客房编号, 客房价格, 入住价格, 折扣, 折扣原因, 是否加床, 加床价格, 预收款, 预定人, 预定公司, 联系电话, 备注, 操作员, 业务员, 早餐, 叫醒, 保密, vip, 电话等级, 特要说明, 应收帐款, 是否结帐, 结帐金额, 结帐日期, 付款方式 FROM 入住单 WHERE (入住单号 = @入住单号)</value>
+  </data>
+  <metadata name="sqlDeleteCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="sqlDeleteCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="sqlDeleteCommand1.CommandText" xml:space="preserve">
+    <value>DELETE FROM [入住单] WHERE (([入住单号] = @Original_入住单号) AND ((@IsNull_预定单号 = 1 AND [预定单号] IS NULL) OR ([预定单号] = @Original_预定单号)) AND ((@IsNull_会员编号 = 1 AND [会员编号] IS NULL) OR ([会员编号] = @Original_会员编号)) AND ((@IsNull_客房类型 = 1 AND [客房类型] IS NULL) OR ([客房类型] = @Original_客房类型)) AND ((@IsNull_抵店时间 = 1 AND [抵店时间] IS NULL) OR ([抵店时间] = @Original_抵店时间)) AND ((@IsNull_离店时间 = 1 AND [离店时间] IS NULL) OR ([离店时间] = @Original_离店时间)) AND ((@IsNull_单据状态 = 1 AND [单据状态] IS NULL) OR ([单据状态] = @Original_单据状态)) AND ((@IsNull_入住人数 = 1 AND [入住人数] IS NULL) OR ([入住人数] = @Original_入住人数)) AND ((@IsNull_客房编号 = 1 AND [客房编号] IS NULL) OR ([客房编号] = @Original_客房编号)) AND ((@IsNull_客房价格 = 1 AND [客房价格] IS NULL) OR ([客房价格] = @Original_客房价格)) AND ((@IsNull_入住价格 = 1 AND [入住价格] IS NULL) OR ([入住价格] = @Original_入住价格)) AND ((@IsNull_折扣 = 1 AND [折扣] IS NULL) OR ([折扣] = @Original_折扣)) AND ((@IsNull_折扣原因 = 1 AND [折扣原因] IS NULL) OR ([折扣原因] = @Original_折扣原因)) AND ((@IsNull_是否加床 = 1 AND [是否加床] IS NULL) OR ([是否加床] = @Original_是否加床)) AND ((@IsNull_加床价格 = 1 AND [加床价格] IS NULL) OR ([加床价格] = @Original_加床价格)) AND ((@IsNull_预收款 = 1 AND [预收款] IS NULL) OR ([预收款] = @Original_预收款)) AND ((@IsNull_预定人 = 1 AND [预定人] IS NULL) OR ([预定人] = @Original_预定人)) AND ((@IsNull_预定公司 = 1 AND [预定公司] IS NULL) OR ([预定公司] = @Original_预定公司)) AND ((@IsNull_联系电话 = 1 AND [联系电话] IS NULL) OR ([联系电话] = @Original_联系电话)) AND ((@IsNull_备注 = 1 AND [备注] IS NULL) OR ([备注] = @Original_备注)) AND ((@IsNull_操作员 = 1 AND [操作员] IS NULL) OR ([操作员] = @Original_操作员)) AND ((@IsNull_业务员 = 1 AND [业务员] IS NULL) OR ([业务员] = @Original_业务员)) AND ((@IsNull_早餐 = 1 AND [早餐] IS NULL) OR ([早餐] = @Original_早餐)) AND ((@IsNull_叫醒 = 1 AND [叫醒] IS NULL) OR ([叫醒] = @Original_叫醒)) AND ((@IsNull_保密 = 1 AND [保密] IS NULL) OR ([保密] = @Original_保密)) AND ((@IsNull_vip = 1 AND [vip] IS NULL) OR ([vip] = @Original_vip)) AND ((@IsNull_电话等级 = 1 AND [电话等级] IS NULL) OR ([电话等级] = @Original_电话等级)) AND ((@IsNull_特要说明 = 1 AND [特要说明] IS NULL) OR ([特要说明] = @Original_特要说明)) AND ((@IsNull_应收帐款 = 1 AND [应收帐款] IS NULL) OR ([应收帐款] = @Original_应收帐款)) AND ((@IsNull_是否结帐 = 1 AND [是否结帐] IS NULL) OR ([是否结帐] = @Original_是否结帐)) AND ((@IsNull_结帐金额 = 1 AND [结帐金额] IS NULL) OR ([结帐金额] = @Original_结帐金额)) AND ((@IsNull_结帐日期 = 1 AND [结帐日期] IS NULL) OR ([结帐日期] = @Original_结帐日期)) AND ((@IsNull_付款方式 = 1 AND [付款方式] IS NULL) OR ([付款方式] = @Original_付款方式)))</value>
+  </data>
+  <metadata name="sqlDataAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>137, 1</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////wAAAAAAAAAAAAAAD///D///AAAAAAAAAA
+        AAD////w////8AAAAAAAAAAP/w//8P//D/8AAAAAAAAA//////D/////8AAAAAAAD/////////////8A
+        AAAAAA////////8P////AAAAAAD/D///////AP//D/AAAAAA////////8PD////wAAAAD/////////AP
+        /////wAAAA////////8PD/////8AAAAP////////AP//////AAAADwAA////8PD///AADwAAAA//////
+        /w8P//////8AAAAP//////Dw+f//////AAAAD/////8PD/+f/////wAAAAD////w8P//+f////AAAAAA
+        /w//Dw////+f/w/wAAAAAA//8PD/////+f//AAAAAAAP//8P//////+f/wAAAAAAAP/////w//////AA
+        AAAAAAAP/w//8P//D/8AAAAAAAAAAP////D////wAAAAAAAAAAAA///w///wAAAAAAAAAAAAAAD////w
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////w
+        H///gAP//gAA//wAAH/4AAA/8AAAH+AAAA/AAAAHwAAAB4AAAAOAAAADgAAAAwAAAAEAAAABAAAAAQAA
+        AAEAAAABAAAAAQAAAAGAAAADgAAAA4AAAAPAAAAHwAAAB+AAAA/wAAAf+AAAP/wAAH/+AAD//4AD///w
+        H/8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAA
+        AAAAAADw/wAAAAAA9/D/fwAAAA//8P//8AAAB///8P9wAAD///8A//8AAP///wD//wAAAA/wD/AAAAD/
+        /wCZ//8AAAfwD/mfcAAAD////5nwAAAA9/D/fwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAA+B8AAOAH
+        AADAAwAAgAEAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAgAEAAMADAADgBwAA+B8AAA==
+</value>
+  </data>
+</root>

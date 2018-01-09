@@ -1,0 +1,78 @@
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Login.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.exe
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.pdb
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Text.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Register.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Document_information.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Open.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.person_information.resources
+C:\Users\Administrator\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.exe
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.pdb
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Document_information.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Login.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Open.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.person_information.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Register.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Text.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.asd.resources
+C:\Users\Administrator\Desktop\C#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+E:\c#\C#课程设计\notepad\notepad\bin\Debug\notepad.exe.config
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.exe
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.pdb
+E:\c#\C#课程设计\notepad\notepad\bin\Debug\notepad.exe
+E:\c#\C#课程设计\notepad\notepad\bin\Debug\notepad.pdb
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.asd.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Document_information.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Login.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Open.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.person_information.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Register.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Text.resources
+E:\c#\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\bin\Debug\notepad.exe.config
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.exe
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.pdb
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.asd.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Document_information.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Login.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Open.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.person_information.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Register.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Text.resources
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\bin\Debug\notepad.exe
+D:\Documents\Tencent Files\2622479002\FileRecv\C#课程设计\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.exe
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.pdb
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.asd.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Document_information.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Login.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Open.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.person_information.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Register.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.Text.resources
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\admin\Desktop\C#课程设计\notepad\notepad\bin\Debug\notepad.pdb
